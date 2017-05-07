@@ -1,0 +1,10 @@
+flask
+gunicorn
+numpy
+json
+pandas
+bs4
+re
+nltk.corpus
+gensim.models
+sklearn.decomposition
